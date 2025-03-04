@@ -1,6 +1,7 @@
 class Menu:
-    def __init__(self):
+    def __init__(self, window):
+        self.window = window
         pass
-    def run(self, ):
+    def run(self):
         pass
 
